@@ -1,5 +1,3 @@
-GitHub Copilot: Sure, here's a README.md file based on the code you provided:
-
 # Dominant Colors Extractor
 
 This is a Node.js module that extracts the dominant colors from an image.
@@ -47,7 +45,7 @@ We can display the colors extracted from the image like so:
 
 ## Contributing
 
-Contributions are always welcome! If you find a bug or have a feature request, please open an issue on the [GitHub repository](https://github.com/yourusername/dominant-colors-extractor). If you'd like to contribute code, please fork the repository and submit a pull request.
+Contributions are always welcome! If you find a bug or have a feature request, please open an issue on the [GitHub repository](https://github.com/guffelman/colorextractor). If you'd like to contribute code, please fork the repository and submit a pull request.
 
 ## License
 
