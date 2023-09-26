@@ -1,5 +1,5 @@
 {
-  "name": "extractcolor",
+  "name": "colorextract",
   "version": "1.0.3",
   "description": "a simple JS package to extract dominant colors from an image",
   "main": "main.js",

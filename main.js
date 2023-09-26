@@ -1,4 +1,4 @@
-// dominantColorsExtractor.js
+// colorextract.js
 
 const { createCanvas, loadImage } = require('canvas');
 
