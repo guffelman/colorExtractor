@@ -1,0 +1,22 @@
+{
+  "name": "extractcolor",
+  "version": "1.0.0",
+  "description": "a simple JS package to extract dominant colors from an image",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test-main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guffelman/colorextractor.git"
+  },
+  "author": "Garrett Uffelman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guffelman/colorextractor/issues"
+  },
+  "homepage": "https://github.com/guffelman/colorextractor#readme",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
