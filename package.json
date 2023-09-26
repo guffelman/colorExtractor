@@ -1,6 +1,6 @@
 {
   "name": "extractcolor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a simple JS package to extract dominant colors from an image",
   "main": "main.js",
   "scripts": {
@@ -16,6 +16,12 @@
     "url": "https://github.com/guffelman/colorextractor/issues"
   },
   "homepage": "https://github.com/guffelman/colorextractor#readme",
+  "keywords": [
+    "color",
+    "extract",
+    "image",
+    "dominant"
+  ],
   "dependencies": {
     "canvas": "^2.11.2"
   }
