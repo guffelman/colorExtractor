@@ -7,13 +7,13 @@ This is a Node.js module that extracts the dominant colors from an image.
 To use this module in your project, you can install it via npm:
 
 ```sh
-npm install colorExtractor
+npm install extract-color
 ```
 
 ## Usage
 
 ```javascript
-const extractDominantColors = require('colorExtractor');
+const extractDominantColors = require('extract-color');
 
 const imageUrl = 'https://example.com/image.jpg';
 const numColors = 5;
